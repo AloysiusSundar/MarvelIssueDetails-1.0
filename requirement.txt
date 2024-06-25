@@ -1,0 +1,3 @@
+beautifulsoup43
+requests
+openpyxl
